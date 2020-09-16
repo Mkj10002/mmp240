@@ -1,0 +1,36 @@
+body 
+
+{
+  font-family: 
+  century gothic, century gothic, sans-serif; color: #446600;p.thicker {
+  font-weight: 950;
+}
+}
+div.a {
+  font-size: 150%; line-height: normal; font-style: italic;
+}
+div.b {
+  font-size: 15px; line-height: 2.0;
+}
+
+div.c {
+  font-size: large; line-height: 150%; 
+
+}
+div.d {
+  text-transform: uppercase; 
+
+}
+
+div.e {
+  width: auto;
+  border: 1px solid green;
+}
+
+p.ex1 {
+  margin-right: 100px;
+}
+
+div.f  {
+  border: 4px dotted green; margin-right: 
+}
